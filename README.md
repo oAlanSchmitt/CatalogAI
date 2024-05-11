@@ -23,7 +23,9 @@ Este projeto foi desenvolvido durante o curso da Alura 🧑‍💻 com o objetiv
 ## Próximos Passos:
 O CatalogAI foi meu primeiro projeto, então tem muito o que melhorar ainda. Aqui estão algumas ideias que tive para ele:
 Implementar um sistema de feedback para aprimorar as recomendações.
+
 Expandir a base de dados de filmes, animes e séries.
+
 Permitir que o usuário personalize ainda mais suas preferências.
 
 # Experimente o CatalogAI e descubra seu próximo filme 🎬, anime 🏯 ou série 📺 favorito!
