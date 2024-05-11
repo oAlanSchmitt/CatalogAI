@@ -18,7 +18,7 @@ Python: A linguagem de programação utilizada para desenvolver o chatbot e inte
 Colab: O ambiente de desenvolvimento online que facilita a execução do CatalogAI.
 
 ## Objetivo do Projeto:
-Este projeto foi desenvolvido durante o curso da Alura 🧑‍💻 com o objetivo de explorar o potencial do Google Gemini na criação de um chatbot de recomendação de entretenimento.
+Este projeto foi desenvolvido durante a imersão da Alura 🧑‍💻 com o objetivo de explorar o potencial do Google Gemini na criação de um chatbot de recomendação de entretenimento.
 
 ## Próximos Passos:
 O CatalogAI foi meu primeiro projeto, então tem muito o que melhorar ainda. Aqui estão algumas ideias que tive para ele:
