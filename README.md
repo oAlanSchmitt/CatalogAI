@@ -6,6 +6,7 @@ O CatalogAI é um chatbot inteligente que utiliza o poder do Google Gemini 🌟,
 
 ## Como funciona?
 Compartilhe seus gostos: O CatalogAI te pedirá 5 títulos de filmes, animes ou séries que você curte.
+
 Análise Inteligente: Usando o Google Gemini, o CatalogAI analisa seus títulos favoritos e identifica padrões e características para entender suas preferências. 🧠💡
 Recomendações Personalizadas: Com base em sua análise, o CatalogAI recomenda um filme, um anime e uma série que você provavelmente vai adorar, além de fornecer uma sinopse e as chances de você gostar de cada título!
 Explore Novas Histórias: Descubra novos mundos e embarque em aventuras emocionantes com as sugestões do CatalogAI! 🚀
